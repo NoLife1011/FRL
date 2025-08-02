@@ -1,0 +1,157 @@
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+      font-family: "Segoe UI", sans-serif;
+    }
+
+    body {
+      background-color: #0B0C10;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+    }
+
+    .login-container {
+      background-color: #fff;
+      border: 1px solid #ddd;
+      border-radius: 8px;
+      padding: 40px;
+      width: 100%;
+      margin: 30px;
+      max-width: 400px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+
+    .logo {
+      display: block;
+      margin: 0 auto 20px auto;
+      width: 100px;
+    }
+
+    .login-title {
+      text-align: center;
+      font-size: 20px;
+      margin-bottom: 10px;
+      color: #333;
+    }
+
+    .form-group {
+      margin-bottom: 10px;
+      position: relative;
+      width: 100%;
+    }
+    
+    .toggle {
+      margin-top: 10px;
+      cursor: pointer;
+      font-size: 0.9em;
+      color: #aaa;
+    }
+
+    .icon{
+      position: absolute;
+      transform: translateY(42%) translateX(-190%);
+      color: #aaa;
+      pointer-events: none; /* agar ikon tidak mengganggu input */
+    }
+
+    .form-group input{
+    width: 100%;
+    padding: 10px 40px 10px 10px; /* ruang kanan buat ikon */
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    transition: border 0.3s;
+    font-size: 14px;
+    }
+
+  .form-group .toggle {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    transform: translateY(-500%) translateX(43%);
+    cursor: pointer;
+    color: #aaa;
+}
+
+
+
+    label {
+      display: block;
+      margin-bottom: 6px;
+      color: #555;
+      font-weight: 500;
+    }
+
+    input[type="email"],
+    input[type="password"] {
+      width: 100%;
+      padding: 10px 12px;
+      border: 1px solid #ccc;
+      border-radius: 10px;
+      font-size: 14px;
+      transition: border 0.3s;
+    }
+
+    input:focus {
+      border-color: #2d72d9;
+      outline: none;
+    }
+
+    .options {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 14px;
+    }
+
+    .options a {
+      color: #2d72d9;
+      text-decoration: none;
+    }
+
+    .options a:hover {
+      text-decoration: underline;
+    }
+
+    .remember-me {
+      display: flex;
+      align-items: center;
+    }
+
+    .remember-me input {
+      margin-right: 6px;
+    }
+
+    .btn-login {
+      width: 100%;
+      padding: 10px;
+      background-color: #0F3460;
+      color: white;
+      border: none;
+      border-radius: 6px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+
+    .btn-login:hover {
+      background-color: #1a56b3;
+    }
+
+    .footer-text {
+      text-align: center;
+      font-size: 14px;
+      margin-top: 25px;
+      color: #555;
+    }
+
+    .footer-text a {
+      color: #2d72d9;
+      text-decoration: none;
+    }
+
+    .footer-text a:hover {
+      text-decoration: underline;
+    }

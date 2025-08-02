@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+      <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <title>Web_I'M</title>
+</head>
+<body>
+  <div data-aos="zoom-in-up">
+  <div class="login-container">
+    <img src="Logo.png" alt="Logo" class="logo">
+    <h2 class="login-title">Sign in to your account</h2>
+    <form>
+      <div class="form-group">
+        <label for="email">Email address</label>
+        <input type="email" id="email" required />
+        <span class="icon"><i class="fa-solid fa-user fa-lg" class="icon"></i></span>
+      </div>
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" required/>
+        <span class="toggle" onclick="togglePassword()"> 
+          <i class="fa-solid fa-eye toggle fa-lg"></i></span>
+      </div>
+      <div class="options">
+        <label class="remember-me">
+          <input type="checkbox"> Remember me
+        </label>
+        <a href="lupa_password.html">Forgot password?</a>
+      </div>
+      <button type="submit" class="btn-login">Sign In</button>
+    </form>
+    <p class="footer-text">New to the site? <a href="create_an_account.html">Create an account</a></p>
+  </div>
+  </div>
+  <script>
+
+  function togglePassword() {
+  const input = document.getElementById("password");
+  const icon = input.nextElementSibling.querySelector("i");
+  if (input.type === "password") {
+    input.type = "text";
+    icon.classList.remove("fa-eye");
+    icon.classList.add("fa-eye-slash");
+  } else {
+    input.type = "password";
+    icon.classList.remove("fa-eye-slash");
+    icon.classList.add("fa-eye");
+  }
+}
+
+function toggleConfirmPassword() {
+  const input = document.getElementById("confirm-password");
+  const icon = input.nextElementSibling.querySelector("i");
+  if (input.type === "password") {
+    input.type = "text";
+    icon.classList.remove("fa-eye");
+    icon.classList.add("fa-eye-slash");
+  } else {
+    input.type = "password";
+    icon.classList.remove("fa-eye-slash");
+    icon.classList.add("fa-eye");
+  }
+}
+
+  </script>
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+  AOS.init();
+  </script>
+</body>
+</html>
