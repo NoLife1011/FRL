@@ -3,7 +3,7 @@
 </p>
 
 ## 👋 Hi, I'm NoLife1011  
-Biasa dipanggil **NoLife** — digital enthusiast yang suka desain, koding, dan hal-hal kreatif lainnya. Masih belajar, tapi semangat!
+Biasa dipanggil **Farrel** — digital enthusiast yang suka desain, koding, dan hal-hal kreatif lainnya. Masih belajar, tapi semangat!
 
 ## 🎯 What I'm Doing  
 - ✨ Gabut pengen nyoba-coba hal baru
