@@ -1,9 +1,10 @@
+<div align="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=16&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=🪐+Digital+Creator+in+Progress..." alt="Typing SVG" />
 </p>
 
 ## 👋 Hi, I'm NoLife1011  
-Biasa dipanggil **Farrel** — digital enthusiast yang suka desain, koding, dan hal-hal kreatif lainnya. Masih belajar, tapi semangat!
+Biasa dipanggil **Farrel** — digital enthusiast yang suka Nyoba hal baru, koding, dan hal-hal kreatif lainnya. Masih belajar, tapi semangat!
 
 ## 🎯 What I'm Doing  
 - ✨ Gabut pengen nyoba-coba hal baru
@@ -50,3 +51,4 @@ Biasa dipanggil **Farrel** — digital enthusiast yang suka desain, koding, dan 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=NoLife1011&icon=3&color=6)](https://visitcount.itsvg.in)
+</div>
