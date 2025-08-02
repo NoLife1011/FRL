@@ -6,15 +6,15 @@
 Biasa dipanggil **NoLife** — digital enthusiast yang suka desain, koding, dan hal-hal kreatif lainnya. Masih belajar, tapi semangat!
 
 ## 🎯 What I'm Doing  
-- ✨ 
-- 💻   
-- 🎮 
-- 📱  
+- ✨ Gabut pengen nyoba-coba hal baru
+- 💻 pengen bisa FrontEnd sama BackEnd
+- 🎮 Infokan yang pengen mabar
+- 📱  Kerjaan lebahhan terus
 
 ## 🔧 On Progress  
 - 🖥️ Bangun personal website  
 - 🎒 Bikin showcase project biar lebih rapi  
-- 🧠 Terus belajar desain, animasi, dan interaktif UI  
+- 🧠 Terus belajar desain, animasi, dan lain-lain
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
@@ -22,8 +22,8 @@ Biasa dipanggil **NoLife** — digital enthusiast yang suka desain, koding, dan 
 </div>
 
 ## 🌐 Connect with Me:  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/topantibonachi)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fatannurrizqi@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/farel11032009/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ezfarelez1011@gmail.com)
 
 ## 🧰 Tech Stack & Tools:
 ![HTML](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
